@@ -64,10 +64,6 @@ This project focuses on analyzing HR data to uncover key insights related to emp
 ---
 
 ## 👨‍💻 Author
-Prachi PAtel 
+Prachi Patel 
 Aspiring Data Analyst  
 
----
-
-## ⭐ If you like this project
-Give it a star on GitHub!
